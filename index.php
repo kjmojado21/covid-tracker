@@ -70,7 +70,7 @@
         </p>
     </div>
 
-    <div class="container mt-5">
+    <div class="container mt-5 table-responsive-md">
         <table class="table">
             <thead class="thead-dark">
                 <th>Countries</th>
