@@ -30,7 +30,7 @@
 <body>
     <div class="container-fluid bg-light my-3 text-center p-3">
         <h1>
-            COVID TRACKER 2021
+            COVID-19 COUNT TRACKER
         </h1>
     </div>
 
@@ -64,6 +64,11 @@
             </div>
         </div>
     </div>
+    <div class="container my-3 bg-light">
+        <p class="text-center text-muted p-4">
+            This page automatically refreshes every 5 minutes
+        </p>
+    </div>
 
     <div class="container mt-5">
         <table class="table">
@@ -96,6 +101,18 @@
             </tbody>
         </table>
     </div>
+    <!-- Footer -->
+    <footer class="page-footer font-small blue pt-4 position-sticky">
+
+        <!-- Footer Links -->
+       
+        <div class="footer-copyright text-center py-3">© 2021 Copyright:
+            <a href="https://www.facebook.com/sherlocked21/"> Kurt John Mojado</a>
+        </div>
+        <!-- Copyright -->
+
+    </footer>
+    <!-- Footer -->
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
