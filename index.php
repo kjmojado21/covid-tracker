@@ -30,7 +30,7 @@
 <body>
     <div class="container-fluid bg-light my-3 text-center p-3">
         <h1>
-            COVID-19 COUNT TRACKER
+            this is the covid 19 tracker 
         </h1>
     </div>
 
